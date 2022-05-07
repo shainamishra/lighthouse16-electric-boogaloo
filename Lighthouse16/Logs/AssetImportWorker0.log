@@ -2289,3 +2289,660 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 735.081286 seconds.
+  path: Assets/Art/Clock
+  artifactKey: Guid(e88a10f82bf0044b19044862fd5944d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Clock using Guid(e88a10f82bf0044b19044862fd5944d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85f9ad062c4646e3b87ada06f28a6d2a') in 0.073693 seconds 
+  Import took 0.175179 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.329562 seconds.
+  path: Assets/Art/Clock/wall1.png
+  artifactKey: Guid(7de8168b8e0b94f36b878db7e26dbd96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Clock/wall1.png using Guid(7de8168b8e0b94f36b878db7e26dbd96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '049ede57aba7dd0b84677fb5c71a8267') in 0.220127 seconds 
+  Import took 0.225663 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Art/Clock/wall3.png
+  artifactKey: Guid(1e86e1a93e77d4b1f815368f7a197467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Clock/wall3.png using Guid(1e86e1a93e77d4b1f815368f7a197467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b65631f0dfff38b8ed928c28638f2fa2') in 0.013827 seconds 
+  Import took 0.018518 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Art/Clock/wall4.png
+  artifactKey: Guid(77f4774078dfa490facb04140fe06a50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Clock/wall4.png using Guid(77f4774078dfa490facb04140fe06a50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54df70fb6680214d508bf0e6e2236ef0') in 0.016967 seconds 
+  Import took 0.022139 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000527 seconds.
+  path: Assets/Art/Clock/wall2.png
+  artifactKey: Guid(9a1bbec07cdb44253bfa7a6cffcb6c18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Clock/wall2.png using Guid(9a1bbec07cdb44253bfa7a6cffcb6c18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7715ac158867f0078ab412a73e9734f5') in 0.027035 seconds 
+  Import took 0.033223 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 209.634865 seconds.
+  path: Assets/Art/Clock/overlays
+  artifactKey: Guid(646516fc57ec8488887201ccfcaf37a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Clock/overlays using Guid(646516fc57ec8488887201ccfcaf37a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6eba1ccbe850fc9a067e3d7d6905f197') in 0.003852 seconds 
+  Import took 0.020240 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.133862 seconds.
+  path: Assets/Art/Clock/overlays/base door.png
+  artifactKey: Guid(8a456847ce8a041a48cc58bbf764bdb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Clock/overlays/base door.png using Guid(8a456847ce8a041a48cc58bbf764bdb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a49c20c8720f5de5154d8b00e7e2765c') in 0.025136 seconds 
+  Import took 0.031176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/Art/Clock/overlays/skull coin.png
+  artifactKey: Guid(41f1713bcb7ff45a0b5af95864f055d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Clock/overlays/skull coin.png using Guid(41f1713bcb7ff45a0b5af95864f055d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dae962502feed9ddd4a9906ad9a19f4') in 0.027564 seconds 
+  Import took 0.033262 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Art/Clock/overlays/coin1.png
+  artifactKey: Guid(1898b28b2150e485ca7261283050ee8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Clock/overlays/coin1.png using Guid(1898b28b2150e485ca7261283050ee8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6985af848d73dba07eb04448785e5e4b') in 0.027102 seconds 
+  Import took 0.031222 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/Art/Clock/overlays/painting.png
+  artifactKey: Guid(5daeaecc9094c4146a28ba3d37aef607) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Clock/overlays/painting.png using Guid(5daeaecc9094c4146a28ba3d37aef607) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f55e4a9e8539bff7ba1903a98f9ab9f2') in 0.026120 seconds 
+  Import took 0.031881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Art/Clock/overlays/broken skull.png
+  artifactKey: Guid(32e78dfd58ba74084aea279db89c3d94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Clock/overlays/broken skull.png using Guid(32e78dfd58ba74084aea279db89c3d94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '311e66c490146adac377535cdf25a8b5') in 0.017843 seconds 
+  Import took 0.022384 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Art/Clock/overlays/rippedPainting.png
+  artifactKey: Guid(83b1ef3b4be0c4fd89d5143f971ac273) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Clock/overlays/rippedPainting.png using Guid(83b1ef3b4be0c4fd89d5143f971ac273) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '061f3b9d8e421b4e24ba98f89c4160a9') in 0.019943 seconds 
+  Import took 0.025351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Art/Clock/overlays/framed painting.png
+  artifactKey: Guid(1d03ea43a621849dcbc3022dd33d9022) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Clock/overlays/framed painting.png using Guid(1d03ea43a621849dcbc3022dd33d9022) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be69d052b8780efd9e4c39de0eb3380f') in 0.023606 seconds 
+  Import took 0.029147 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Art/Clock/overlays/coin2.png
+  artifactKey: Guid(63d5677465c834fbb86867c0c9cf7950) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Clock/overlays/coin2.png using Guid(63d5677465c834fbb86867c0c9cf7950) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c399eac06a22cca0faa148923add8260') in 0.013484 seconds 
+  Import took 0.018130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Art/Clock/overlays/table knife.png
+  artifactKey: Guid(97bb75922ad5d4fba82c33aaeae35b43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Clock/overlays/table knife.png using Guid(97bb75922ad5d4fba82c33aaeae35b43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '939122e4104f88963d28b99466d5d430') in 0.016819 seconds 
+  Import took 0.023195 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Art/Clock/overlays/skull and hatch.png
+  artifactKey: Guid(96663b3829cbc4962952e5e0c905f855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Clock/overlays/skull and hatch.png using Guid(96663b3829cbc4962952e5e0c905f855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '378f3aea42376274e3591b62a578d28c') in 0.037082 seconds 
+  Import took 0.042274 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Art/Clock/overlays/minute.png
+  artifactKey: Guid(290eaa3044e234917bfe1a533ee50774) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Clock/overlays/minute.png using Guid(290eaa3044e234917bfe1a533ee50774) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02f8090c3f49e6b3aea00c556d09b98e') in 0.017628 seconds 
+  Import took 0.022988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Art/Clock/overlays/base.png
+  artifactKey: Guid(e22848fbc6b4242fcbe1bbfbbc781d5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Clock/overlays/base.png using Guid(e22848fbc6b4242fcbe1bbfbbc781d5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43c10a1a83f145fad06b3558ee531b44') in 0.021996 seconds 
+  Import took 0.027894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Art/Clock/overlays/clockface.png
+  artifactKey: Guid(83b83e6dffbf849269998b463d24df93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Clock/overlays/clockface.png using Guid(83b83e6dffbf849269998b463d24df93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '398fdae0af0b1fc4e689144a8aa3dadf') in 0.017070 seconds 
+  Import took 0.025724 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000747 seconds.
+  path: Assets/Art/Clock/overlays/dining table.png
+  artifactKey: Guid(0b06803c2266143348f062da3e2c22c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Clock/overlays/dining table.png using Guid(0b06803c2266143348f062da3e2c22c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d3c3414a3b40520f9e641ba3c99f991') in 0.035500 seconds 
+  Import took 0.042054 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Art/Clock/overlays/drawer.png
+  artifactKey: Guid(989cb0a140dc143b5a2fc332ed0ececf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Clock/overlays/drawer.png using Guid(989cb0a140dc143b5a2fc332ed0ececf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b8687932979eb8b3cb79dc960d61ab2') in 0.040306 seconds 
+  Import took 0.045168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Art/Clock/overlays/drawerhammer.png
+  artifactKey: Guid(d2858b2ac4deb4abcbc555a3c908237f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Clock/overlays/drawerhammer.png using Guid(d2858b2ac4deb4abcbc555a3c908237f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e277fe41c07eaab90d30e6dfb553b135') in 0.035440 seconds 
+  Import took 0.040673 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Art/Clock/overlays/painting coin.png
+  artifactKey: Guid(e2a7b1043945f456499074e0267cb2df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Clock/overlays/painting coin.png using Guid(e2a7b1043945f456499074e0267cb2df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e983d7616e84861c4a1f1e849ed2402') in 0.020563 seconds 
+  Import took 0.024788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Art/Clock/overlays/clock.png
+  artifactKey: Guid(4b81fb6c92fa0435897e3f9f5a54993d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Clock/overlays/clock.png using Guid(4b81fb6c92fa0435897e3f9f5a54993d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c390bc8c4c61fd6c1bda7d121b7de3f') in 0.019302 seconds 
+  Import took 0.025644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 121.212362 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95df672b4aaba54310d34c83eef51bb8') in 1.406129 seconds 
+  Import took 1.412622 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 645.809198 seconds.
+  path: Assets/Art/Clock/items
+  artifactKey: Guid(bd672759c891f4424a4048b637842063) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Clock/items using Guid(bd672759c891f4424a4048b637842063) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b60837372822ea760a9abf7304bb3333') in 0.004597 seconds 
+  Import took 0.043847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.093329 seconds.
+  path: Assets/Art/Clock/items/hammer.png
+  artifactKey: Guid(051a7cf9894d948808765e25fbe09c31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Clock/items/hammer.png using Guid(051a7cf9894d948808765e25fbe09c31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf9d6884a77974890664fd531a468c25') in 0.088014 seconds 
+  Import took 0.093823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Art/Clock/items/knife.png
+  artifactKey: Guid(1fad2d5bf2ef64577bf297ee2056b723) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Clock/items/knife.png using Guid(1fad2d5bf2ef64577bf297ee2056b723) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd25cea17c76b1a97a1fe933084d1dd1e') in 0.016723 seconds 
+  Import took 0.024071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000542 seconds.
+  path: Assets/Art/Clock/items/hatch ladder.png
+  artifactKey: Guid(490c805a827ef413195721ee4a9cfc91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Clock/items/hatch ladder.png using Guid(490c805a827ef413195721ee4a9cfc91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14d94ad2d00e2bb082e2c2435fe7fc62') in 0.026063 seconds 
+  Import took 0.032176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Art/Clock/items/hour.png
+  artifactKey: Guid(22d554d188d7e44088e209230364a11c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Clock/items/hour.png using Guid(22d554d188d7e44088e209230364a11c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2418fcf12327017a97473cde6da45de7') in 0.023980 seconds 
+  Import took 0.028141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Art/Clock/items/minute hand.png
+  artifactKey: Guid(93059cf03ffdd43808f71f9bff0bf162) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Clock/items/minute hand.png using Guid(93059cf03ffdd43808f71f9bff0bf162) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e498d8d0c1e9d924bea1d346c5f399fe') in 0.028612 seconds 
+  Import took 0.033566 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007008 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.615 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1618ms)
+		BeginReloadAssembly (268ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (19ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (148ms)
+		EndReloadAssembly (1261ms)
+			LoadAssemblies (169ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (445ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (68ms)
+			SetupLoadedEditorAssemblies (421ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (116ms)
+				ProcessInitializeOnLoadAttributes (287ms)
+				ProcessInitializeOnLoadMethodAttributes (7ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (14ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.71 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2083 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 212.6 MB.
+System memory in use after: 212.7 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2658.
+Total: 4.505958 ms (FindLiveObjects: 0.331150 ms CreateObjectMapping: 0.107065 ms MarkObjects: 3.858031 ms  DeleteObjects: 0.205804 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 231.754534 seconds.
+  path: Assets/Art/Magic
+  artifactKey: Guid(b1a430faf79c74dc89d39eaed6126d4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Magic using Guid(b1a430faf79c74dc89d39eaed6126d4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b1a374298fe116d3c0f8b01b4b1edad') in 0.005115 seconds 
+  Import took 0.013167 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.526574 seconds.
+  path: Assets/Scenes/5Magic.unity
+  artifactKey: Guid(19f6668a1b9354bf1a92b8b0d17cfb87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/5Magic.unity using Guid(19f6668a1b9354bf1a92b8b0d17cfb87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6af6e909e8f59057fc15f439d63c7e40') in 0.018099 seconds 
+  Import took 0.023945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.988206 seconds.
+  path: Assets/Scenes/3Cellar.unity
+  artifactKey: Guid(b40dcee95ec874ab2ab1f38a0647682b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/3Cellar.unity using Guid(b40dcee95ec874ab2ab1f38a0647682b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ca3295cd9e2a96f5eb3bdbbca9b4815') in 0.004314 seconds 
+  Import took 0.012043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.204576 seconds.
+  path: Assets/Scenes/4Clock.unity
+  artifactKey: Guid(eed54a117e07b4c6e9d68f229a4c184d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/4Clock.unity using Guid(eed54a117e07b4c6e9d68f229a4c184d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8bf3e82344de3df1b08b6baa4d7ffa8') in 0.003431 seconds 
+  Import took 0.011113 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.053287 seconds.
+  path: Assets/Art/Magic/blank_wall.png
+  artifactKey: Guid(ecd6449c56214424aa4473dd7b7db10a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Magic/blank_wall.png using Guid(ecd6449c56214424aa4473dd7b7db10a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ad299fc09f17fac73c36a3db9e9a50d') in 0.175932 seconds 
+  Import took 0.181552 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Art/Magic/window_dirty.png
+  artifactKey: Guid(a61446082a3f54857973b4c44e78fef6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Magic/window_dirty.png using Guid(a61446082a3f54857973b4c44e78fef6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b53da17423bfe8e2e22e32f1c30db71') in 0.016501 seconds 
+  Import took 0.021245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/Art/Magic/nqueens.png
+  artifactKey: Guid(b85a56ee25d21441dbd5297219fbef85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Magic/nqueens.png using Guid(b85a56ee25d21441dbd5297219fbef85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4aba1771efd4268d1c42125d4bc6e1d') in 0.018070 seconds 
+  Import took 0.023565 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Art/Magic/diagrams.png
+  artifactKey: Guid(1f609267234b549d887f411d40b7646f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Magic/diagrams.png using Guid(1f609267234b549d887f411d40b7646f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5aa6557791c0b810a7615bcc0302ec6') in 0.033284 seconds 
+  Import took 0.041472 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 110.725588 seconds.
+  path: Assets/Art/Magic/overlays
+  artifactKey: Guid(c46f25eefa95341cfb7aecaf0c7b1519) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Magic/overlays using Guid(c46f25eefa95341cfb7aecaf0c7b1519) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46c365b57d47f2b42c79e71096ac330a') in 0.003276 seconds 
+  Import took 0.012250 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.170269 seconds.
+  path: Assets/Art/Magic/overlays/blank_wall_light.png
+  artifactKey: Guid(f597b607b208d4ea3a22098c110e200b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Magic/overlays/blank_wall_light.png using Guid(f597b607b208d4ea3a22098c110e200b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fa7d6167730a828cb9073538123a079') in 0.020184 seconds 
+  Import took 0.028876 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Art/Magic/overlays/light_over_diagrams.png
+  artifactKey: Guid(4c6d6776639fc42f6a517c27aa6ba73e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Magic/overlays/light_over_diagrams.png using Guid(4c6d6776639fc42f6a517c27aa6ba73e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72294fac384ecd8012811f1ba1bf7296') in 0.023018 seconds 
+  Import took 0.027806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000559 seconds.
+  path: Assets/Art/Magic/overlays/rope_overlay.png
+  artifactKey: Guid(c57bcf8a6071d4c80ab08cbc32ff8648) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Magic/overlays/rope_overlay.png using Guid(c57bcf8a6071d4c80ab08cbc32ff8648) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a03db1394d7340a9938386c0151dcf5') in 0.028125 seconds 
+  Import took 0.035848 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Art/Magic/overlays/secret_outline.png
+  artifactKey: Guid(1afbf9a4d4af1476c98958ca6bca7116) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Magic/overlays/secret_outline.png using Guid(1afbf9a4d4af1476c98958ca6bca7116) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cf3f1cdb5f71664cc2eba7dc5a43a90') in 0.026470 seconds 
+  Import took 0.030510 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Art/Magic/overlays/rag.png
+  artifactKey: Guid(a766bab87b3164624a29891173fb83c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Magic/overlays/rag.png using Guid(a766bab87b3164624a29891173fb83c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ede9c95ece733c20851a588998ec2e4b') in 0.022152 seconds 
+  Import took 0.025935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Art/Magic/overlays/ladder.png
+  artifactKey: Guid(e80bdba8d536c410482b54f3b0db7890) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Magic/overlays/ladder.png using Guid(e80bdba8d536c410482b54f3b0db7890) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57462a22ff4852d6a27a9cbe32941fc2') in 0.018506 seconds 
+  Import took 0.024012 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Art/Magic/overlays/scales.png
+  artifactKey: Guid(e42ad09171f7d49eb90bbade689eb00b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Magic/overlays/scales.png using Guid(e42ad09171f7d49eb90bbade689eb00b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbfd223169aeb3bce1eaab819e9b494f') in 0.019853 seconds 
+  Import took 0.024567 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Art/Magic/overlays/pendulum.png
+  artifactKey: Guid(3f05386e318144b7ea565d814ac6d542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Magic/overlays/pendulum.png using Guid(3f05386e318144b7ea565d814ac6d542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '525cf696f0c0629094ec81867b33ab0d') in 0.020529 seconds 
+  Import took 0.024999 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Art/Magic/overlays/pendulum_rock.png
+  artifactKey: Guid(2d967caacc16a438db3464b4d6ec9ef6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Magic/overlays/pendulum_rock.png using Guid(2d967caacc16a438db3464b4d6ec9ef6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '214fbeb23ab67d4eac445bb6112bb504') in 0.023987 seconds 
+  Import took 0.029653 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Art/Magic/overlays/pendulum_top.png
+  artifactKey: Guid(8a496b93adec445f2af45970caece0b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Magic/overlays/pendulum_top.png using Guid(8a496b93adec445f2af45970caece0b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbfa2a478bffad8fe361cb3f7dea691e') in 0.024690 seconds 
+  Import took 0.028134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Art/Magic/overlays/pendulumAnim.png
+  artifactKey: Guid(4de0c83d28c3846e98a20e091b1009f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Magic/overlays/pendulumAnim.png using Guid(4de0c83d28c3846e98a20e091b1009f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c82b78e748470deb2e90e896b09f3f8') in 0.022574 seconds 
+  Import took 0.026777 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000528 seconds.
+  path: Assets/Art/Magic/overlays/nqueensText.png
+  artifactKey: Guid(0c7fcc773e1594e8083ae7de872123de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Magic/overlays/nqueensText.png using Guid(0c7fcc773e1594e8083ae7de872123de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3971ebb747fc900a29f87196c75dd04') in 0.024721 seconds 
+  Import took 0.029317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Art/Magic/overlays/nqueenStones.png
+  artifactKey: Guid(dc492bfe8afe04bec9997dcd9e5e3d27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Magic/overlays/nqueenStones.png using Guid(dc492bfe8afe04bec9997dcd9e5e3d27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a02f9007fced07741976e74e1538142b') in 0.018732 seconds 
+  Import took 0.023555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Assets/Art/Magic/overlays/window_clean.png
+  artifactKey: Guid(025ad22695a6b4ae49cd0254430295b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Magic/overlays/window_clean.png using Guid(025ad22695a6b4ae49cd0254430295b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77d82608049d5a876071f88736fb2c6e') in 0.019527 seconds 
+  Import took 0.025502 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Art/Magic/overlays/pendulum_rope.png
+  artifactKey: Guid(4cd4221b3762146fe80ea73ad8dc1fa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Magic/overlays/pendulum_rope.png using Guid(4cd4221b3762146fe80ea73ad8dc1fa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9cde30b95d173b64725ad132f2e381e') in 0.020003 seconds 
+  Import took 0.024428 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Art/Magic/overlays/secret_scales.png
+  artifactKey: Guid(9bcca11d7915c46308724425c5b0120b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Magic/overlays/secret_scales.png using Guid(9bcca11d7915c46308724425c5b0120b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d90abdeb4a87d56dac8fd456d9e1dc0') in 0.020828 seconds 
+  Import took 0.025079 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Art/Magic/overlays/light_over_chart.png
+  artifactKey: Guid(f94e38748810547faa7c57c7c481de48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Magic/overlays/light_over_chart.png using Guid(f94e38748810547faa7c57c7c481de48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4946e19fcf321d9c9269aa4740cd8434') in 0.020740 seconds 
+  Import took 0.025760 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Art/Magic/overlays/citrine_window.png
+  artifactKey: Guid(75d1eb5ec30d64aa69f07590dfacdc04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Magic/overlays/citrine_window.png using Guid(75d1eb5ec30d64aa69f07590dfacdc04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fc35f10ac73ebf61e8bdaecf3c87c37') in 0.020920 seconds 
+  Import took 0.028770 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 880.409233 seconds.
+  path: Assets/Art/Magic/scalesWindow
+  artifactKey: Guid(14451059064544b3680740a988714c9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Magic/scalesWindow using Guid(14451059064544b3680740a988714c9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '972d689088d2c64cc2c3a68179c90dde') in 0.007889 seconds 
+  Import took 0.042618 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.164770 seconds.
+  path: Assets/Art/Magic/scalesWindow/balanced.png
+  artifactKey: Guid(1fa20d4246eaf4361ad63017000f2fc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Magic/scalesWindow/balanced.png using Guid(1fa20d4246eaf4361ad63017000f2fc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '662d0b6b5f3633a0e60d5e1c3e1241c0') in 0.045064 seconds 
+  Import took 0.050235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Art/Magic/scalesWindow/weigh_button.png
+  artifactKey: Guid(c1b3fb13fd7ae446c9b76902efed8971) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Magic/scalesWindow/weigh_button.png using Guid(c1b3fb13fd7ae446c9b76902efed8971) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13dfd87bfcc05a832c4fe3a8b4f9b4bf') in 0.029002 seconds 
+  Import took 0.033227 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000570 seconds.
+  path: Assets/Art/Magic/scalesWindow/scales_instructions.png
+  artifactKey: Guid(624288cdf08ea4cc3b3a2d1fcbe1872f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Magic/scalesWindow/scales_instructions.png using Guid(624288cdf08ea4cc3b3a2d1fcbe1872f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd612ff17271c143f4bf123bfcdd63098') in 0.025052 seconds 
+  Import took 0.030331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Art/Magic/scalesWindow/left heavy.png
+  artifactKey: Guid(cb8d13fa570e24b8fa8f4782c7ea84fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Magic/scalesWindow/left heavy.png using Guid(cb8d13fa570e24b8fa8f4782c7ea84fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7ee47a87f8614222dc3b9ec65b01441') in 0.023504 seconds 
+  Import took 0.026942 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Art/Magic/scalesWindow/rightHeavy.png
+  artifactKey: Guid(fb8fa8c4499ea461f8886f71b6b3d88d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Magic/scalesWindow/rightHeavy.png using Guid(fb8fa8c4499ea461f8886f71b6b3d88d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e339fa28210f301db7931dcf24621f9f') in 0.024513 seconds 
+  Import took 0.029651 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/Art/Magic/scalesWindow/scalesHole.png
+  artifactKey: Guid(4f1e6d26f964246c48efb0f5bcc49279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Magic/scalesWindow/scalesHole.png using Guid(4f1e6d26f964246c48efb0f5bcc49279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a269f1bdac014c648df0e4588b2a34c4') in 0.022686 seconds 
+  Import took 0.026596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 193.795998 seconds.
+  path: Assets/Art/Magic/items/blue_rock.png
+  artifactKey: Guid(dd7c74578f43b46c19647ad6963b596e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Magic/items/blue_rock.png using Guid(dd7c74578f43b46c19647ad6963b596e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3addad80d08de83614b912c468f7708a') in 0.023577 seconds 
+  Import took 0.028275 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Art/Magic/items/rockHot.png
+  artifactKey: Guid(7bf2d7e8ab11b4b4aa828a04f9a7444f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Magic/items/rockHot.png using Guid(7bf2d7e8ab11b4b4aa828a04f9a7444f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9eb5d7941ca1a3232907118739415dfa') in 0.037784 seconds 
+  Import took 0.042742 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Art/Magic/items/purple_rock.png
+  artifactKey: Guid(988666d798d024774b2e13d0dd85de96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Magic/items/purple_rock.png using Guid(988666d798d024774b2e13d0dd85de96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8df50808a436e6498475539f95a25a2b') in 0.043790 seconds 
+  Import took 0.051060 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Art/Magic/items/rope.png
+  artifactKey: Guid(6ed81f4264b2b406ba4f33759d5dd664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Magic/items/rope.png using Guid(6ed81f4264b2b406ba4f33759d5dd664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c36c575fce0c381cb1a71245deba2cab') in 0.034964 seconds 
+  Import took 0.040139 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000393 seconds.
+  path: Assets/Art/Magic/items/citrine.png
+  artifactKey: Guid(463e3e8d1344a419bafc3cf77e95079f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Magic/items/citrine.png using Guid(463e3e8d1344a419bafc3cf77e95079f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e1b8b595b28076f3e144d6bc6b9b945') in 0.028919 seconds 
+  Import took 0.034803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Art/Magic/items/orange_rock.png
+  artifactKey: Guid(c3dee7be6ec9342d49f7ecb1fd071567) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Magic/items/orange_rock.png using Guid(c3dee7be6ec9342d49f7ecb1fd071567) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd521bf6ca6810c48592c8e3418e0f489') in 0.041196 seconds 
+  Import took 0.045598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Art/Magic/items/cyan_rock.png
+  artifactKey: Guid(2d013ae33d1ae4224ac40a69e5e0fb6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Magic/items/cyan_rock.png using Guid(2d013ae33d1ae4224ac40a69e5e0fb6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '864ace0af05341dd70127bde91ac5627') in 0.024903 seconds 
+  Import took 0.029270 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Art/Magic/items/rag.png
+  artifactKey: Guid(afafa38dbf385424bb357e98b8b73731) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Magic/items/rag.png using Guid(afafa38dbf385424bb357e98b8b73731) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67b20b8556a970cc5557297b59610277') in 0.026640 seconds 
+  Import took 0.030035 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Art/Magic/items/green_rock.png
+  artifactKey: Guid(8ac2706d7bee4466b95dc84a5765bdab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Magic/items/green_rock.png using Guid(8ac2706d7bee4466b95dc84a5765bdab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a34cb8f3c4f353b6357837f4092e88b8') in 0.037847 seconds 
+  Import took 0.041946 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/Art/Magic/items/red_rock.png
+  artifactKey: Guid(d87afc489802945a4abbb5336b4fe91a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Magic/items/red_rock.png using Guid(d87afc489802945a4abbb5336b4fe91a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '683f77e94e6ca42f74e360b02855bbe3') in 0.024795 seconds 
+  Import took 0.029612 seconds .
+
