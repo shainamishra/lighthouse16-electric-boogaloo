@@ -1871,3 +1871,421 @@ Received Import Request.
 Start importing Assets/Art/Island/overlays/rodCagenoItem.png using Guid(4eb47b69cea9648a29dea0ba448175b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e28d99d59a1db2f7e2a19ed914b5c191') in 0.022624 seconds 
   Import took 0.028623 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 618.188151 seconds.
+  path: Assets/Scenes/2Island.unity
+  artifactKey: Guid(076d76dfa9dfc4bdd8809a4539d832b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/2Island.unity using Guid(076d76dfa9dfc4bdd8809a4539d832b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '138137d4bb44a5112055001e5286cd54') in 0.007277 seconds 
+  Import took 0.042806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.931742 seconds.
+  path: Assets/Scenes/2Island.unity
+  artifactKey: Guid(076d76dfa9dfc4bdd8809a4539d832b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/2Island.unity using Guid(076d76dfa9dfc4bdd8809a4539d832b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b235222ff311fe8ceced590ac86891c6') in 0.007767 seconds 
+  Import took 0.016013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.777497 seconds.
+  path: Assets/Scenes/3Cellar.unity
+  artifactKey: Guid(b40dcee95ec874ab2ab1f38a0647682b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/3Cellar.unity using Guid(b40dcee95ec874ab2ab1f38a0647682b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0201d6f4f108760d2a451da9ba78860') in 0.009734 seconds 
+  Import took 0.018353 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.829385 seconds.
+  path: Assets/Art/Cellar
+  artifactKey: Guid(c15248c4777cd4706ad97f3129476a7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Cellar using Guid(c15248c4777cd4706ad97f3129476a7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4f38b23c10d8f631f882140ff9acacc') in 0.002808 seconds 
+  Import took 0.011360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.335212 seconds.
+  path: Assets/Art/Cellar/cellar.png
+  artifactKey: Guid(ce81b8ab1feb54cad91023e28257b361) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Cellar/cellar.png using Guid(ce81b8ab1feb54cad91023e28257b361) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e66cc62010b2724a3c371c491f00130') in 0.068014 seconds 
+  Import took 0.077463 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002532 seconds.
+  path: Assets/Art/Cellar/cellarNorthDark.png
+  artifactKey: Guid(7f1863249af59479ca648a8a87fa934c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Cellar/cellarNorthDark.png using Guid(7f1863249af59479ca648a8a87fa934c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d0396d80971bf80c85f8cf59644e540') in 0.023515 seconds 
+  Import took 0.032162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000746 seconds.
+  path: Assets/Art/Cellar/eastTemp.png
+  artifactKey: Guid(94d86ee93e12b44e486fac2fb593ead5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Cellar/eastTemp.png using Guid(94d86ee93e12b44e486fac2fb593ead5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c11d7afbfda41012a16f2f23aea2d879') in 0.023039 seconds 
+  Import took 0.029600 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000885 seconds.
+  path: Assets/Art/Cellar/cellarNorth.png
+  artifactKey: Guid(e13d3fe2801094a938da307e91d97142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Cellar/cellarNorth.png using Guid(e13d3fe2801094a938da307e91d97142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb6c398b6c72f8601b7384d1b2660526') in 0.016770 seconds 
+  Import took 0.022268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 168.590516 seconds.
+  path: Assets/Art/Cellar/items
+  artifactKey: Guid(9702a8495fc73468581201180e2e7e51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Cellar/items using Guid(9702a8495fc73468581201180e2e7e51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0767c50cde08909954460ce9e0e5f9d') in 0.005357 seconds 
+  Import took 0.018785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.147824 seconds.
+  path: Assets/Art/Cellar/items/key2.png
+  artifactKey: Guid(eb21e45dad4e94398b8e62cf2ca80d9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Cellar/items/key2.png using Guid(eb21e45dad4e94398b8e62cf2ca80d9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbd6dcc6728d82b6d9bca1eda9dbb9c3') in 0.022308 seconds 
+  Import took 0.028263 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Art/Cellar/items/switch2.png
+  artifactKey: Guid(3e348d34686f14d5b90a834484c9c70d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Cellar/items/switch2.png using Guid(3e348d34686f14d5b90a834484c9c70d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af609d59f45cadd2e864e86f68547c7b') in 0.031912 seconds 
+  Import took 0.036504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.972473 seconds.
+  path: Assets/Art/Cellar/overlays
+  artifactKey: Guid(0d699c32ac0a946fea929cdf834f4d8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Cellar/overlays using Guid(0d699c32ac0a946fea929cdf834f4d8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '262f2b593b2345e6be670041dfcd677d') in 0.004546 seconds 
+  Import took 0.019811 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.103560 seconds.
+  path: Assets/Art/Cellar/overlays/buttons.png
+  artifactKey: Guid(aa64cf2e88b4341d7928b526b3077ff0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Cellar/overlays/buttons.png using Guid(aa64cf2e88b4341d7928b526b3077ff0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '264c1fb9d0cfe03aef9be3eee9ac072f') in 0.017692 seconds 
+  Import took 0.022371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Art/Cellar/overlays/southSwitch.png
+  artifactKey: Guid(7920ada890fd54c61b56734fa4cd3b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Cellar/overlays/southSwitch.png using Guid(7920ada890fd54c61b56734fa4cd3b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4de9a0a2e08844f76d7c15741b8a6f31') in 0.019675 seconds 
+  Import took 0.026037 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Art/Cellar/overlays/westBookshelf.png
+  artifactKey: Guid(2eac0d490dd9e45c7a501c4c8a11d00e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Cellar/overlays/westBookshelf.png using Guid(2eac0d490dd9e45c7a501c4c8a11d00e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55a139596ce2d535a8736985a2f52a6a') in 0.028257 seconds 
+  Import took 0.032086 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Art/Cellar/overlays/southSwitchOn.png
+  artifactKey: Guid(853fb772d72ef496c85de5f2767110e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Cellar/overlays/southSwitchOn.png using Guid(853fb772d72ef496c85de5f2767110e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '951bee7ab187e85cfd751b85f3c53e61') in 0.025779 seconds 
+  Import took 0.029650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Art/Cellar/overlays/westKey.png
+  artifactKey: Guid(d3b27bbb5a1eb4e2cacb9e8990cc89d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Cellar/overlays/westKey.png using Guid(d3b27bbb5a1eb4e2cacb9e8990cc89d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47c48dd928fcae97192dde04835e00ad') in 0.017796 seconds 
+  Import took 0.023533 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Art/Cellar/overlays/lightsOff.png
+  artifactKey: Guid(afa566da72d38424f8be1b9f2388dfcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Cellar/overlays/lightsOff.png using Guid(afa566da72d38424f8be1b9f2388dfcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7295f45c3e8743a7f1fce43d4a25b788') in 0.016955 seconds 
+  Import took 0.021920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Art/Cellar/overlays/southSwitchOff.png
+  artifactKey: Guid(b613bbdd1c6b5423090e1903b01cddce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Cellar/overlays/southSwitchOff.png using Guid(b613bbdd1c6b5423090e1903b01cddce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '588c772644a9d93fd1f318e7c24cd77b') in 0.021521 seconds 
+  Import took 0.026344 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000854 seconds.
+  path: Assets/Art/Cellar/overlays/southDark.png
+  artifactKey: Guid(9d9f7f9b8b79f43b8a015f90305f4340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Cellar/overlays/southDark.png using Guid(9d9f7f9b8b79f43b8a015f90305f4340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57a21e93c3403ea288710b21a0c4f2b6') in 0.022475 seconds 
+  Import took 0.026602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/Art/Cellar/overlays/southLight.png
+  artifactKey: Guid(86df6c152855b46b5b62448722de3182) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Cellar/overlays/southLight.png using Guid(86df6c152855b46b5b62448722de3182) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a889fd341cacc82339e1d0c6ef4bf4f5') in 0.017501 seconds 
+  Import took 0.022230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Art/Cellar/overlays/westDeskLocked.png
+  artifactKey: Guid(a9bc870f464cc433dbe3d6b47a6c1929) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Cellar/overlays/westDeskLocked.png using Guid(a9bc870f464cc433dbe3d6b47a6c1929) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94b4a58281c336819c6de3af0b1b058b') in 0.018474 seconds 
+  Import took 0.023267 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Art/Cellar/overlays/southDoor.png
+  artifactKey: Guid(e059b560c7fa442c98b9326e1f81f01e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Cellar/overlays/southDoor.png using Guid(e059b560c7fa442c98b9326e1f81f01e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e06dcbe2f94f10a0c44882a28bb38515') in 0.024348 seconds 
+  Import took 0.028841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Art/Cellar/overlays/westDeskOpen.png
+  artifactKey: Guid(4b51f8aea2a134f6697b5bb5fd51edfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Cellar/overlays/westDeskOpen.png using Guid(4b51f8aea2a134f6697b5bb5fd51edfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dde15f80d95c4ea4808b2af3a67b95d5') in 0.028969 seconds 
+  Import took 0.035612 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Art/Cellar/overlays/westBook.png
+  artifactKey: Guid(54e8bac3b88794f569c99385ca0f62cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Cellar/overlays/westBook.png using Guid(54e8bac3b88794f569c99385ca0f62cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '474e4fb5765a110bca0fdccd81edc7bf') in 0.037455 seconds 
+  Import took 0.042424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 149.998789 seconds.
+  path: Assets/Scenes/4Clock.unity
+  artifactKey: Guid(eed54a117e07b4c6e9d68f229a4c184d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/4Clock.unity using Guid(eed54a117e07b4c6e9d68f229a4c184d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '445a64ae71915c6bb7cae5fc3cb6881e') in 0.018877 seconds 
+  Import took 0.027541 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.440352 seconds.
+  path: Assets/Scenes/2Island.unity
+  artifactKey: Guid(076d76dfa9dfc4bdd8809a4539d832b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/2Island.unity using Guid(076d76dfa9dfc4bdd8809a4539d832b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04cf5e4357b8d65e31b3086a18c13b61') in 0.006276 seconds 
+  Import took 0.013141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.283511 seconds.
+  path: Assets/Scenes/3Cellar.unity
+  artifactKey: Guid(b40dcee95ec874ab2ab1f38a0647682b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/3Cellar.unity using Guid(b40dcee95ec874ab2ab1f38a0647682b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ff1deac0ae74cd2013eb7fe134dd718') in 0.004983 seconds 
+  Import took 0.013368 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007955 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.373 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2378ms)
+		BeginReloadAssembly (685ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (62ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (413ms)
+		EndReloadAssembly (1546ms)
+			LoadAssemblies (193ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (500ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (75ms)
+			SetupLoadedEditorAssemblies (568ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (142ms)
+				ProcessInitializeOnLoadAttributes (400ms)
+				ProcessInitializeOnLoadMethodAttributes (12ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (19ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.31 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2083 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 207.8 MB.
+System memory in use after: 208.0 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2650.
+Total: 5.022770 ms (FindLiveObjects: 0.542458 ms CreateObjectMapping: 0.294395 ms MarkObjects: 4.154087 ms  DeleteObjects: 0.030310 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 354.216470 seconds.
+  path: Assets/Art/Cellar/overlays/buttonsOn
+  artifactKey: Guid(9dc7945c08eff4fb1bf52e51b8b816c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Cellar/overlays/buttonsOn using Guid(9dc7945c08eff4fb1bf52e51b8b816c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4de9407c913caf551bed489666a7c516') in 0.005836 seconds 
+  Import took 0.015935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.150010 seconds.
+  path: Assets/Art/Cellar/overlays/buttonsOn/buttonBlue.png
+  artifactKey: Guid(0756b32dcd5514d6a832092aa5bb8539) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Cellar/overlays/buttonsOn/buttonBlue.png using Guid(0756b32dcd5514d6a832092aa5bb8539) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ffefc9d30d494b4c94574d34b3b543a') in 0.079149 seconds 
+  Import took 0.083676 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Art/Cellar/overlays/buttonsOn/buttonPink.png
+  artifactKey: Guid(ab9c01966be4f411fbe266d795b76d17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Cellar/overlays/buttonsOn/buttonPink.png using Guid(ab9c01966be4f411fbe266d795b76d17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c8383a682220237e81ab309c8820d51') in 0.027258 seconds 
+  Import took 0.032184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000500 seconds.
+  path: Assets/Art/Cellar/overlays/buttonsOn/buttonsOn.png
+  artifactKey: Guid(c4d1e9ea39f0f42098260b8fa3fe493c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Cellar/overlays/buttonsOn/buttonsOn.png using Guid(c4d1e9ea39f0f42098260b8fa3fe493c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86b2862a5eb5f387738adaa9c79c3cb6') in 0.020692 seconds 
+  Import took 0.025858 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Art/Cellar/overlays/buttonsOn/buttonPurple.png
+  artifactKey: Guid(588709aaf159e40c3afc00a8d38d3a8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Cellar/overlays/buttonsOn/buttonPurple.png using Guid(588709aaf159e40c3afc00a8d38d3a8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fea5609769956fe090d0d5369f4713fd') in 0.023810 seconds 
+  Import took 0.028490 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Art/Cellar/overlays/buttonsOn/buttonOrange.png
+  artifactKey: Guid(8c26855666e9b4cdf9faca21ef0799fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Cellar/overlays/buttonsOn/buttonOrange.png using Guid(8c26855666e9b4cdf9faca21ef0799fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '738897b196372954bf2b7a2671f8a280') in 0.019733 seconds 
+  Import took 0.024243 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Art/Cellar/overlays/buttonsOn/buttonRed.png
+  artifactKey: Guid(e73f50a78ee01409283fe0c4415d73e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Cellar/overlays/buttonsOn/buttonRed.png using Guid(e73f50a78ee01409283fe0c4415d73e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '214d4849115e9262d416dbdf82e371d9') in 0.015059 seconds 
+  Import took 0.020544 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/Art/Cellar/overlays/buttonsOn/buttonYellow.png
+  artifactKey: Guid(1fe68534e358643c0aa551be333f6efd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Cellar/overlays/buttonsOn/buttonYellow.png using Guid(1fe68534e358643c0aa551be333f6efd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c4d430dcd183743d2d73ab39e55c1c6') in 0.021838 seconds 
+  Import took 0.028343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Assets/Art/Cellar/overlays/buttonsOn/buttonLime.png
+  artifactKey: Guid(6034e1d07d896486a8f8ff8401652d22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Cellar/overlays/buttonsOn/buttonLime.png using Guid(6034e1d07d896486a8f8ff8401652d22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e11c778e723038efa8182f3bda16a44') in 0.028332 seconds 
+  Import took 0.033196 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/Art/Cellar/overlays/buttonsOn/buttonCyan.png
+  artifactKey: Guid(4ed21a7deff9540fca55a5c0d0d5f6ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Cellar/overlays/buttonsOn/buttonCyan.png using Guid(4ed21a7deff9540fca55a5c0d0d5f6ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8c3968fde555586751f52fd7f60dbbb') in 0.022183 seconds 
+  Import took 0.027588 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005371 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.97 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.853 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3857ms)
+		BeginReloadAssembly (527ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (29ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (311ms)
+		EndReloadAssembly (3080ms)
+			LoadAssemblies (291ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1233ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (88ms)
+			SetupLoadedEditorAssemblies (1105ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (45ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (261ms)
+				ProcessInitializeOnLoadAttributes (776ms)
+				ProcessInitializeOnLoadMethodAttributes (17ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (37ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.23 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2083 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 208.1 MB.
+System memory in use after: 208.2 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2654.
+Total: 20.536504 ms (FindLiveObjects: 2.599713 ms CreateObjectMapping: 0.730662 ms MarkObjects: 17.168618 ms  DeleteObjects: 0.034298 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
