@@ -1767,3 +1767,107 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 745.939335 seconds.
+  path: Assets/Art/Island/overlays
+  artifactKey: Guid(36b9f9c1dbbc347b682cce89fac64cf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Island/overlays using Guid(36b9f9c1dbbc347b682cce89fac64cf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2fbe711aebc9438e5c414db45a94ee2') in 0.055611 seconds 
+  Import took 0.088505 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.047659 seconds.
+  path: Assets/Art/Island/overlays/bucket.png
+  artifactKey: Guid(5458d307a25c54f19ae0c0d1ce29bae6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Island/overlays/bucket.png using Guid(5458d307a25c54f19ae0c0d1ce29bae6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7124e8ac1bd0b720cdf71fd11f86edc5') in 0.137084 seconds 
+  Import took 0.141693 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Art/Island/overlays/statueUnlockednoItem.png
+  artifactKey: Guid(d1d83fc56a2cd44978087478f82ec926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Island/overlays/statueUnlockednoItem.png using Guid(d1d83fc56a2cd44978087478f82ec926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '312ed0c1f69222f25447537feb04f953') in 0.020175 seconds 
+  Import took 0.024957 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Art/Island/overlays/rodEmpty.png
+  artifactKey: Guid(7a7e52fc5c00049509502e4479ca0479) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Island/overlays/rodEmpty.png using Guid(7a7e52fc5c00049509502e4479ca0479) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e12d67e4878f4da9dc15f240996fb365') in 0.021653 seconds 
+  Import took 0.026192 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Art/Island/overlays/bucketUsed.png
+  artifactKey: Guid(7806563829d6f45e08888c069ffa4011) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Island/overlays/bucketUsed.png using Guid(7806563829d6f45e08888c069ffa4011) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '447de185ceba9afc829607f220751c64') in 0.013570 seconds 
+  Import took 0.018383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Art/Island/overlays/combo.png
+  artifactKey: Guid(bc15f3175a1fb4ceeba3ad2e2b4c297c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Island/overlays/combo.png using Guid(bc15f3175a1fb4ceeba3ad2e2b4c297c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '706e64cc8d1c245e954efa4ca6970c18') in 0.026492 seconds 
+  Import took 0.031957 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000427 seconds.
+  path: Assets/Art/Island/overlays/graveboxUsed.png
+  artifactKey: Guid(9b7f233d3c4c34e6cb0c7e5fae557f42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Island/overlays/graveboxUsed.png using Guid(9b7f233d3c4c34e6cb0c7e5fae557f42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0692bd8d80dfb40af7a72cb61cb90fdb') in 0.015880 seconds 
+  Import took 0.021353 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/Art/Island/overlays/rodCage.png
+  artifactKey: Guid(1a2503c104b3e42368a52454fc6a87fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Island/overlays/rodCage.png using Guid(1a2503c104b3e42368a52454fc6a87fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e9ec503b86d02e9aace992554c3faf1') in 0.021152 seconds 
+  Import took 0.026209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000526 seconds.
+  path: Assets/Art/Island/overlays/statueUnlocked.png
+  artifactKey: Guid(ae3fd3e3c3856476288f76fcdf408491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Island/overlays/statueUnlocked.png using Guid(ae3fd3e3c3856476288f76fcdf408491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d29022845d0ae317e40630161890679') in 0.032329 seconds 
+  Import took 0.036778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Art/Island/overlays/reelUsed.png
+  artifactKey: Guid(f45b46cd4f6244f2fb8bd66256d336da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Island/overlays/reelUsed.png using Guid(f45b46cd4f6244f2fb8bd66256d336da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b049b6800894bd6088ccb803e59bd14') in 0.031858 seconds 
+  Import took 0.035724 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Art/Island/overlays/gravebox.png
+  artifactKey: Guid(188999e36f94a47fa94127c684215a0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Island/overlays/gravebox.png using Guid(188999e36f94a47fa94127c684215a0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b5f9b94b7b6f8d9b29c5e2018835d74') in 0.040603 seconds 
+  Import took 0.046751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Art/Island/overlays/cellarUnlocked.png
+  artifactKey: Guid(d26e7c2923e7545eb9f58c65094d9c85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Island/overlays/cellarUnlocked.png using Guid(d26e7c2923e7545eb9f58c65094d9c85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5430ba3e099397c6c9a1630035b87840') in 0.047433 seconds 
+  Import took 0.052288 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Art/Island/overlays/rodCagenoItem.png
+  artifactKey: Guid(4eb47b69cea9648a29dea0ba448175b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Island/overlays/rodCagenoItem.png using Guid(4eb47b69cea9648a29dea0ba448175b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e28d99d59a1db2f7e2a19ed914b5c191') in 0.022624 seconds 
+  Import took 0.028623 seconds .
+
