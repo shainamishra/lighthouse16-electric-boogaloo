@@ -14,19 +14,19 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/2Island.unity
     guid: 076d76dfa9dfc4bdd8809a4539d832b8
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/3Cellar.unity
     guid: b40dcee95ec874ab2ab1f38a0647682b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/4Clock.unity
     guid: eed54a117e07b4c6e9d68f229a4c184d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/5Magic.unity
     guid: 19f6668a1b9354bf1a92b8b0d17cfb87
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/6Loading.unity
     guid: f4ca3a38fd2eb4bb198931dbf15e8500
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/7Ritual.unity
     guid: 7d09e96185c6646deb556fd2218d0940
   m_configObjects: {}

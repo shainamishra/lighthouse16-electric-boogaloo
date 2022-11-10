@@ -23,6 +23,12 @@ public class StartScript : MonoBehaviour
             // change +2 to +1 but im skipping the lore scene for now
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 2);
         }
+
+        if(Input.GetKeyDown("esc"))
+        {
+            Debug.Log("quit");
+            Application.Quit();
+        }
     }
 
 /*
