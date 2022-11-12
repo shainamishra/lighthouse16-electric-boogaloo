@@ -24,7 +24,6 @@ public class Arrows : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("Start");
         // gameobjects
         North.gameObject.SetActive(true);
         East.gameObject.SetActive(false);
@@ -36,7 +35,6 @@ public class Arrows : MonoBehaviour
         // buttons
         if(Input.GetMouseButtonDown(1))
         {
-            Debug.Log("start in if");
             rightArrow.onClick.AddListener(TaskOnClick);
             leftArrow.onClick.AddListener(TaskOnClick);
             upArrow.onClick.AddListener(TaskOnClick);
@@ -47,12 +45,9 @@ public class Arrows : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
-            Debug.Log("update");
         // buttons
         if(Input.GetMouseButtonDown(1))
         {
-            Debug.Log("update in if");
             rightArrow.onClick.AddListener(TaskOnClick);
             leftArrow.onClick.AddListener(TaskOnClick);
             upArrow.onClick.AddListener(TaskOnClick);
