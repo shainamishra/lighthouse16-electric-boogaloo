@@ -17,6 +17,7 @@ public class StartScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        // add the win condition here
         if(Input.GetKeyDown("space"))
         {
             Debug.Log("start");
@@ -24,7 +25,7 @@ public class StartScript : MonoBehaviour
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 2);
         }
 
-        if(Input.GetKeyDown("esc"))
+        if(Input.GetKeyDown("escape"))
         {
             Debug.Log("quit");
             Application.Quit();

@@ -589,6 +589,7 @@ GameObject:
   m_Component:
   - component: {fileID: 101881309}
   - component: {fileID: 101881310}
+  - component: {fileID: 101881311}
   m_Layer: 5
   m_Name: Bucket
   m_TagString: Untagged
@@ -629,6 +630,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bcb0d84b52e144a5092968292042b7de, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &101881311
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 101881308}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54456e3bc71e14c19bdbd53b015a9de7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  startImage: {fileID: 1263243669}
+  clickedImage: {fileID: 2076026320}
 --- !u!1 &117568804
 GameObject:
   m_ObjectHideFlags: 0
@@ -4192,6 +4207,7 @@ GameObject:
   - component: {fileID: 1504589100}
   - component: {fileID: 1504589099}
   - component: {fileID: 1504589098}
+  - component: {fileID: 1504589101}
   m_Layer: 0
   m_Name: EventSystem
   m_TagString: Untagged
@@ -4247,6 +4263,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1504589101
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1504589097}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a48d2919532ca46a693fbe5e62734977, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1614147884
 GameObject:
   m_ObjectHideFlags: 0
@@ -4758,7 +4786,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1863064152
 RectTransform:
   m_ObjectHideFlags: 0

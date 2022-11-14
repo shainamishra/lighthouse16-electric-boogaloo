@@ -12,11 +12,6 @@ public class CloseButton : MonoBehaviour
     public GameObject hotbar;
     public GameObject arrows;
 
-    // Start is called before the first frame update
-    void Start()
-    {
-    }
-
     // Update is called once per frame
     void Update()
     {
