@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class ChangeImage : MonoBehaviour
 {
+    public Island prereq;
     public GameObject startImage;
     public GameObject clickedImage;
 
@@ -12,16 +13,24 @@ public class ChangeImage : MonoBehaviour
     {
         startImage.gameObject.SetActive(true);
         clickedImage.gameObject.SetActive(false);
+        prereq = GetComponentInChildren<Island>();
     }
 
     // Update is called once per frame
     void Update ()
     {
-        if (Input.GetMouseButtonDown(0))
+
+    }
+
+    public void change(GameObject gm)
+    {
+        startImage = gm;
+        clickedImage.name = "GameObject";
+
+        if (prereq == true)
         {
-            Debug.Log("hit in update");
-            startImage.gameObject.SetActive(false);
             clickedImage.gameObject.SetActive(true);
+            startImage.gameObject.SetActive(false);
         }
     }
 }

@@ -7,7 +7,7 @@ using UnityEngine.EventSystems;
 public class CloseButton : MonoBehaviour
 {
     public Button closeButton;
-    public GameObject OtherButton;
+    public GameObject otherButton;
     public GameObject overlay;
     public GameObject hotbar;
     public GameObject arrows;
@@ -24,7 +24,7 @@ public class CloseButton : MonoBehaviour
     public void TaskOnClick()
     {
         closeButton.gameObject.SetActive(false);
-        OtherButton.gameObject.SetActive(true);
+        otherButton.gameObject.SetActive(true);
         overlay.gameObject.SetActive(false);
         hotbar.gameObject.SetActive(true);
         arrows.gameObject.SetActive(true);

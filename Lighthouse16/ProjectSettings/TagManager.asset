@@ -8,12 +8,12 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Overlays
+  - 
   - Water
   - UI
+  - Overlays
+  - Items
   - Backgrounds
-  - 
-  - 
   - 
   - 
   - 
