@@ -31,6 +31,12 @@ public class Island : MonoBehaviour
             clickedImage.name = "GameObject";
             change(gameObject, clickedImage);
         }
+
+        if (gameObject.name == "rodEmpty" && prereq == true)
+        {
+            clickedImage.name = "reelUsed";
+            change(gameObject, clickedImage);
+        }
     }
 
     public void change(GameObject gm, GameObject ci)
