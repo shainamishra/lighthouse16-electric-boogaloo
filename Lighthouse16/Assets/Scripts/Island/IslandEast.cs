@@ -38,7 +38,15 @@ public class IslandEast : MonoBehaviour
         {
             clickedImage.name = "reelUsed";
             change(gameObject, clickedImage);
-        }
+        } else if (gameObject.name == "reelUsed" && prereq == true)
+        {
+            clickedImage.name = "rodCage";
+            change(gameObject, clickedImage);
+        } if (gameObject.name == "rodCage" && prereq == true)
+        {
+            clickedImage.name = "rodCagenoItem";
+            change(gameObject, clickedImage);
+        } 
     }
         
     // add prereq as a third input so that u can check if the right key is true
