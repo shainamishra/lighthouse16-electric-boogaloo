@@ -41,3 +41,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Backgrounds
+    uniqueID: 1784685329
+    locked: 0
+  - name: Items
+    uniqueID: 1714785603
+    locked: 0
+  - name: Hotbar
+    uniqueID: 2613716907
+    locked: 0
+  - name: Overlays
+    uniqueID: 3762045141
+    locked: 0
+  - name: UI
+    uniqueID: 1558019287
+    locked: 0

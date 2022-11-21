@@ -38,11 +38,13 @@ public class IslandEast : MonoBehaviour
         {
             clickedImage.name = "reelUsed";
             change(gameObject, clickedImage);
-        } else if (gameObject.name == "reelUsed" && prereq == true)
+        }
+        if (gameObject.name == "reelUsed" && prereq == true)
         {
             clickedImage.name = "rodCage";
             change(gameObject, clickedImage);
-        } if (gameObject.name == "rodCage" && prereq == true)
+        } 
+        if (gameObject.name == "rodCage")
         {
             clickedImage.name = "rodCagenoItem";
             change(gameObject, clickedImage);
