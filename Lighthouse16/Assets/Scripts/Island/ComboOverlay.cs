@@ -130,5 +130,13 @@ public class ComboOverlay : MonoBehaviour
             statueLocked.gameObject.SetActive(false);
             statueUnlocked.gameObject.SetActive(true);
         }
+
+        // reset numbers to 0
+        num1 = 0;
+        leftText.text = "0";
+        num2 = 0;
+        midText.text = "0";
+        num3 = 0;
+        rightText.text = "0";
     }
 }
