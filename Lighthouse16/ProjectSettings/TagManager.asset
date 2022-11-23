@@ -8,7 +8,7 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Cursor
   - Water
   - UI
   - Overlays
@@ -55,4 +55,7 @@ TagManager:
     locked: 0
   - name: UI
     uniqueID: 1558019287
+    locked: 0
+  - name: Cursor
+    uniqueID: 458242653
     locked: 0
